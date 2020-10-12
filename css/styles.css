@@ -1,0 +1,108 @@
+
+
+body {
+  font-family: 'montserrat';
+}
+
+
+#title {
+  background-color: #f9f7f7;
+  color: #1e56a0;
+font-size: 1.1rem;
+  font-family: 'Anton', sans-serif;
+}
+
+
+.navbar {
+  padding-bottom: 2.5rem;
+
+}
+Navigation bar
+.navbar-brand {
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+.nav-link {
+  font-color: #b9bbdf;
+  font-size: 1.2rem;
+  font-family: 'montserrat'
+
+
+}
+
+h3 {
+  font-size: 1rem;
+  font-family: 'montserrat-Bold'
+
+}
+
+p {
+  color: #000;
+  font-size: 1.2rem;
+font-family: 'Cormorant Garamond', serif;
+
+}
+.container-fluid {
+  padding: 3% 9%
+}
+
+.chica-img {
+  width: 16.5%;
+  padding-bottom: 3%
+
+}
+
+.singh-img {
+  margin-right: 2%;
+  margin-top: 1%
+
+}
+
+
+.unaiza-img{
+  padding-bottom: 3.8rem;
+
+}
+
+#features {
+  padding: 7% 15%;
+
+}
+
+.feature-box {
+  text-align: center;
+  padding: 3%;
+}
+
+.feather-img {
+  padding-bottom: 1rem;
+}
+
+.insurance-img {
+  padding-bottom: 1rem;
+  text-align: center;
+  background-color:
+}
+
+.makeup-img {
+  padding-bottom: 1rem;
+}
+
+
+
+
+#testimonials {
+  background-color: #f9f7f7;
+  text-align: center;
+  color: #1e56a0;
+  font-size: 0.8rem;
+  padding: 9% 15%
+
+
+
+
+}
